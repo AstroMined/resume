@@ -1,0 +1,201 @@
+{
+  "basics": {
+    "name": "Ryan Peterson",
+    "label": "Technical Support Engineer",
+    "picture": "",
+    "email": "ryan.peterson@live.com",
+    "phone": "512-348-7989",
+    "website": "https://github.com/AstroMined",
+    "summary": "Results-driven Technical Support Engineer with 5 years of experience in enterprise application support, automation, and problem-solving. Skilled in streamlining processes, leading technical initiatives, and enhancing customer satisfaction through innovative solutions.",
+    "location": {
+      "city": "Pittsburgh, PA"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "AstroMined",
+        "url": "https://github.com/AstroMined"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ScienceLogic",
+      "position": "Technical Support Engineer",
+      "website": "https://www.sciencelogic.com",
+      "startDate": "2021-09-01",
+      "endDate": "",
+      "highlights": [
+        "Resolved complex Tier 2 escalations, coordinating with cross-functional teams",
+        "Automated deployment processes with Python, significantly reducing manual workload",
+        "Developed Generative AI application for streamlined access to internal documentation",
+        "Led critical bug resolutions, collaborating with internal teams to implement fixes",
+        "Created large-scale automation project to validate customer vulnerability reports and streamline research on patch status"
+      ]
+    },
+    {
+      "company": "LogicMonitor",
+      "position": "Technical Support Engineer",
+      "website": "https://www.logicmonitor.com",
+      "startDate": "2021-01-01",
+      "endDate": "2021-09-01",
+      "highlights": [
+        "Served as SME for Azure and Python, resolving complex ATSE issues",
+        "Spearheaded LM Logs support, mastering FluentD, Logstash, and Grafana Loki",
+        "Led APM product launch support, integrating Jaeger, OpenTelemetry, and Prometheus"
+      ]
+    },
+    {
+      "company": "LogicMonitor",
+      "position": "Associate Technical Support Engineer",
+      "website": "https://www.logicmonitor.com",
+      "startDate": "2020-03-01",
+      "endDate": "2020-12-31",
+      "highlights": [
+        "Facilitated 2,000+ IT product integrations via Zendesk support",
+        "Authored Knowledge Base articles and public-facing support documentation",
+        "Relayed customer feedback to product team, enhancing product development"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Western Governors University",
+      "area": "Network Engineering and Security – Cisco Track",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2024-05-31",
+      "gpa": "",
+      "courses": ["Focused on network security, automation, and troubleshooting"]
+    },
+    {
+      "institution": "Western Governors University",
+      "area": "Cloud Computing",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2022-06-30",
+      "gpa": "",
+      "courses": ["Studied cloud computing architecture, networking, security, development, automation, and operations"]
+    },
+    {
+      "institution": "Penn State University",
+      "area": "Management and Organization",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "Completed 115 credits towards degree"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Cisco Certified CyberOps Associate",
+      "issuer": "Cisco",
+      "startDate": "2024-05-31",
+      "endDate": "",
+      "url": "https://www.credly.com/earner/earned/badge/fe91b363-1552-4a5d-b78c-e34e653924f8"
+    },
+    {
+      "name": "VMware Certified Professional – Data Center Virtualization",
+      "issuer": "VMware",
+      "startDate": "2023-06-23",
+      "endDate": "",
+      "url": "https://www.credly.com/earner/earned/badge/4c2c46c0-7496-4a5e-ac42-dc86eb12b172"
+    },
+    {
+      "name": "Cisco DevNet Associate",
+      "issuer": "Cisco",
+      "startDate": "2023-05-30",
+      "endDate": "",
+      "url": "https://www.credly.com/earner/earned/badge/aec7f361-47ef-4189-8ff6-2872714c280e"
+    },
+    {
+      "name": "Cisco Certified Network Associate (CCNA)",
+      "issuer": "Cisco",
+      "startDate": "2023-03-22",
+      "endDate": "",
+      "url": "https://www.credly.com/earner/earned/badge/94abd7b9-da64-4b07-8919-987ca1fe2b3c"
+    },
+    {
+      "name": "AWS SysOps Administrator",
+      "issuer": "Amazon Web Services",
+      "startDate": "2021-03-31",
+      "endDate": "",
+      "url": "https://www.credly.com/earner/earned/badge/64d01fcb-24fb-43f1-8bbc-c3aadda1ccff"
+    },
+    {
+      "name": "AWS Solutions Architect Associate",
+      "issuer": "Amazon Web Services",
+      "startDate": "2020-12-30",
+      "endDate": "",
+      "url": "https://www.credly.com/earner/earned/badge/05565761-2114-44c5-bf9c-73b11f118c43"
+    },
+    {
+      "name": "CompTIA Linux+",
+      "issuer": "CompTIA",
+      "startDate": "2020-10-05",
+      "endDate": "",
+      "url": "https://www.credly.com/earner/earned/badge/7a49ce39-e4a8-4535-b818-2165f3d45bcd"
+    },
+    {
+      "name": "ITIL 4 Foundation",
+      "issuer": "AXELOS",
+      "startDate": "2020-02-28",
+      "endDate": "",
+      "url": "https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488C7B16DC8F5C6F2DB8B699B22045E16B0B0A73F1810EA0ED619BFE16CE8D504F65624400F16479E7F93A57BE35B1D56C4886533BC2355ECEA7D7D81916E5B05F2210362CE12266E20B24F8A54B075B77A6EDF7E0ADB6D9A3A905D6001"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "Bash", "PowerShell", "Javascript"]
+    },
+    {
+      "name": "Cloud & Virtualization",
+      "level": "",
+      "keywords": ["AWS", "Azure", "VMware"]
+    },
+    {
+      "name": "Containers & Orchestration",
+      "level": "",
+      "keywords": ["Docker", "Kubernetes", "Docker Swarm"]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": ["MariaDB", "MySQL", "Couchbase", "Redis", "Scylla"]
+    },
+    {
+      "name": "Monitoring & Logging",
+      "level": "",
+      "keywords": ["ScienceLogic", "LogicMonitor", "Prometheus", "Grafana", "ELK Stack"]
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": ["Routing", "Switching", "TCP/IP", "SNMP", "Wireshark"]
+    },
+    {
+      "name": "Productivity Tools",
+      "level": "",
+      "keywords": ["Salesforce", "Slack", "Microsoft Teams", "Jira", "Confluence", "BitBucket", "GitHub"]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": ["REST APIs", "GraphQL", "Nginx", "Kafka", "DRBD", "Corosync", "Pacemaker"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Cloud Computing Thesis",
+      "publisher": "Western Governors University",
+      "releaseDate": "2022-01-01",
+      "website": "https://github.com/AstroMined/cloud-computing-thesis",
+      "summary": "Building and Monitoring a Kubeflow ML Pipeline Using AWS EKS, Prometheus, and Grafana"
+    }
+  ]
+}
