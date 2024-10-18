@@ -24,9 +24,9 @@ Results-driven Technical Support Engineer with 5 years of experience in enterpri
 - Relayed customer feedback to the product team, enhancing product development.
 
 ## Education
-- **Bachelor of Science in Network Engineering and Security – Cisco Track**, Western Governors University (Expected May 2024)
+- **Bachelor of Science in Network Engineering and Security – Cisco Track**, Western Governors University (Graduated May 2024)
   - Focused on network security, automation, and troubleshooting.
-- **Bachelor of Science in Cloud Computing**, Western Governors University (June 2022)
+- **Bachelor of Science in Cloud Computing**, Western Governors University (Graduated June 2022)
   - Studied cloud computing architecture, networking, security, development, automation, and operations.
 - **Management and Organization**, Penn State University (2003)
   - Completed 115 credits towards degree.
