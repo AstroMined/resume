@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Ryan Peterson",
-    "label": "Technical Support Engineer",
+    "label": "Senior Technical Support Engineer",
     "picture": "",
     "email": "ryan.peterson@live.com",
     "phone": "512-348-7989",
     "website": "https://github.com/AstroMined",
-    "summary": "Results-driven Technical Support Engineer with 5 years of experience in enterprise application support, automation, and problem-solving. Skilled in streamlining processes, leading technical initiatives, and enhancing customer satisfaction through innovative solutions.",
+    "summary": "Results-driven Senior Technical Support Engineer with 5 years of experience in enterprise SaaS operations, production support, and automation. Expert in root cause analysis, on-call incident response, and building scalable solutions that enhance system reliability and customer satisfaction.",
     "location": {
       "city": "Pittsburgh, PA"
     },
@@ -21,16 +21,19 @@
   "work": [
     {
       "company": "ScienceLogic",
-      "position": "Technical Support Engineer",
+      "position": "Senior Technical Support Engineer",
       "website": "https://www.sciencelogic.com",
       "startDate": "2021-09-01",
       "endDate": "",
       "highlights": [
-        "Resolved complex Tier 2 escalations, coordinating with cross-functional teams",
-        "Automated deployment processes with Python, significantly reducing manual workload",
-        "Developed Generative AI application for streamlined access to internal documentation",
-        "Led critical bug resolutions, collaborating with internal teams to implement fixes",
-        "Created large-scale automation project to validate customer vulnerability reports and streamline research on patch status"
+        "Promoted to Senior Technical Support Engineer in April 2025, recognizing technical leadership and impact",
+        "Maintain exceptional 4.8/5.0 all-time CSAT rating, demonstrating strong customer empathy and technical communication skills",
+        "Resolve complex Tier 3 escalations, coordinating with cross-functional teams on critical bug fixes",
+        "Specialize in deep-dive root cause analysis investigations for complex production issues to systematically identify underlying root causes instead of workarounds, preventing recurring incidents and improving overall system reliability",
+        "Automated drop file deployment processes with Python, significantly reducing manual workload for customers with large footprints",
+        "Developed a proof-of-concept Generative AI application for streamlined access to internal documentation and piloted other support use-cases of GenAI such as Salesforce Einstein for KB creation",
+        "Created a large-scale automation project to validate customer vulnerability reports and streamline research on patch status",
+        "Participate in quarterly on-call rotation providing 48-hour weekend coverage plus two additional weekend shifts per quarter, ensuring 24/7 support"
       ]
     },
     {
@@ -41,6 +44,7 @@
       "endDate": "2021-09-01",
       "highlights": [
         "Served as SME for Azure and Python, resolving complex ATSE issues",
+        "Created Groovy and PowerShell DataSources for monitoring data collection",
         "Spearheaded LM Logs support, mastering FluentD, Logstash, and Grafana Loki",
         "Led APM product launch support, integrating Jaeger, OpenTelemetry, and Prometheus"
       ]
@@ -79,10 +83,10 @@
     },
     {
       "institution": "Penn State University",
-      "area": "Management and Organization",
+      "area": "Strategic Management and Organization",
       "studyType": "",
       "startDate": "",
-      "endDate": "",
+      "endDate": "2003-12-31",
       "gpa": "",
       "courses": [
         "Completed 115 credits towards degree"
@@ -151,7 +155,7 @@
     {
       "name": "Programming",
       "level": "",
-      "keywords": ["Python", "Bash", "PowerShell", "Javascript"]
+      "keywords": ["Python", "Bash", "PowerShell", "JavaScript", "Groovy"]
     },
     {
       "name": "Cloud & Virtualization",
@@ -166,7 +170,7 @@
     {
       "name": "Databases",
       "level": "",
-      "keywords": ["MariaDB", "MySQL", "Couchbase", "Redis", "Scylla"]
+      "keywords": ["MariaDB", "MySQL", "Couchbase", "Redis"]
     },
     {
       "name": "Monitoring & Logging",
@@ -196,6 +200,44 @@
       "releaseDate": "2022-01-01",
       "website": "https://github.com/AstroMined/cloud-computing-thesis",
       "summary": "Building and Monitoring a Kubeflow ML Pipeline Using AWS EKS, Prometheus, and Grafana"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Debtonator",
+      "description": "Full-stack financial management system with FastAPI backend, React frontend, and 94% test coverage. Features automated cashflow analysis, recurring transaction handling, and comprehensive API design.",
+      "highlights": [],
+      "keywords": ["FastAPI", "React", "Python", "JavaScript", "Testing"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/AstroMined/debtonator",
+      "roles": ["Developer"],
+      "entity": "Personal Project",
+      "type": "application"
+    },
+    {
+      "name": "PyGithub MCP Server",
+      "description": "Model Context Protocol server enabling AI assistants to interact with GitHub APIs. Implements modular tool architecture, robust error handling, and rate limiting for production reliability.",
+      "highlights": [],
+      "keywords": ["Python", "GitHub API", "MCP", "AI"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/AstroMined/pygithub-mcp-server",
+      "roles": ["Developer"],
+      "entity": "Personal Project",
+      "type": "library"
+    },
+    {
+      "name": "BlackPlus",
+      "description": "Python formatter extension that enhances Black with docstring formatting capabilities. Published on PyPI, demonstrating open-source contribution and developer tooling expertise.",
+      "highlights": [],
+      "keywords": ["Python", "Code Formatting", "PyPI", "Open Source"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/AstroMined/BlackPlus",
+      "roles": ["Developer"],
+      "entity": "Personal Project",
+      "type": "tool"
     }
   ]
 }
